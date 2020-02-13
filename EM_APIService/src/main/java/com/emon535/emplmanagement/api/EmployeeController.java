@@ -12,6 +12,7 @@ import java.time.Period;
 import java.util.List;
 import java.util.UUID;
 
+@CrossOrigin(origins = "http://localhost:3000")
 @RequestMapping("api/v1/employee")
 @RestController
 public class EmployeeController {
