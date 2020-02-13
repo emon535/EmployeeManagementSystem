@@ -1,6 +1,6 @@
 ## EM_APIService : Spring Boot Rest API service for Employee Management
 
-- Find the API Documentation from Postman here : [Link](https://documenter.getpostman.com/view/3844660/SzKPU1WG?version=latest)
+- Find the API Documentation from Postman here : [Postman API Documentation](https://documenter.getpostman.com/view/3844660/SzKPU1WG?version=latest)
 - Run the project and install dependencies.
 - Go to postman and follow the API documentation
 - I have used in memory Array ( No Database ), You may loose the data once restart the project.
@@ -11,7 +11,7 @@
 
 - Change the directory to "employee-management-fromtend" and run `npm install` to install the dependencies from `package.json` file.
 - Go to  `localhost:3000` and check;
-
+- No CSS was written, only tried to make as much as feature possible
 
 ---
 
